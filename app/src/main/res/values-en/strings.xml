@@ -16,4 +16,5 @@
     <string name="tab_home">Home</string>
     <string name="tab_profile">Me</string>
     <string name="secondword_detail">Me Gusta</string>
+    <string name="new_post_take_picture">Take picture</string>
 </resources>
