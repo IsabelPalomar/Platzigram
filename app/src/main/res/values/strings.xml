@@ -28,6 +28,7 @@
     <string name="transitionname_picture">transitionnamepicture</string>
 
     <string name="new_post_take_picture">Tomar Foto</string>
+    <string name="new_post_error_create_file">Error creando el archivo de imagen</string>
 
 
 </resources>
