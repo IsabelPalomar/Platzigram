@@ -30,6 +30,11 @@
     <string name="new_post_title">Nuevo Post</string>
     <string name="new_post_take_picture">Tomar Foto</string>
     <string name="new_post_error_create_file">Error creando el archivo de imagen</string>
+    <string name="create_account_error_email_address">Enter email address</string>
+    <string name="create_account_error_name">Enter name</string>
+    <string name="create_account_error_user_name">Enter user name</string>
+    <string name="create_account_error_password">Enter a valid Password</string>
+    <string name="create_acccount_error_confirm_password">Password and confirmation password don\'t match</string>
 
 
 </resources>
